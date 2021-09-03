@@ -1,1 +1,19 @@
-
+{
+  "zone": "9",
+  "name": "Central Texas",
+  "plants": [
+    {
+      "commonName": "Cucumber",
+      "scientificName": "Cucumberis Deliciousis",
+      "plantingDates": [
+        {
+          "dateStartMonth": "1",
+          "dateStartDay": "1",
+          "dateEndMonth": "3",
+          "dateEndDay": "15",
+          "conditions": "Seeds"
+        }
+      ]
+    }
+  ]
+}
