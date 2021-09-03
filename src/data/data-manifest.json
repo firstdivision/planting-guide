@@ -1,0 +1,9 @@
+{
+  "plantingGuides": [
+    {
+      "zone": 9,
+      "name": "Central Texas",
+      "file": "central-texas.json"
+    }
+  ]
+}
