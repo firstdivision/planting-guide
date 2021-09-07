@@ -9,6 +9,7 @@
   "plants": [
     {
       "commonName": "Cucumber",
+      "categoryId": 1,
       "scientificName": "Cucumberis Deliciousis",
       "plantingDates": [
         {
